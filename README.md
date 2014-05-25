@@ -36,7 +36,7 @@
 <ol class="task-list">
 <li>Open the R script <code>run_analysis.r</code> using a text editor.</li>
 <li>Change the parameter of the <code>setwd</code> function call to the working directory/folder (i.e., the folder where these the R script file is saved).</li>
-<li>Run the R script <code>run_analysis.r</code>. It calls the R Markdown file, <code>run_analysis.Rmd</code>, which contains the bulk of the code.</li>
+<li>Run the R script <code>run_analysis.R</code>. It calls the R Markdown file, <code>run_analysis.Rmd</code>, which contains the bulk of the code.</li>
 </ol><h2>
 <a name="user-content-outputs-produced" class="anchor" href="#outputs-produced"><span class="octicon octicon-link"></span></a>Outputs produced</h2>
 
