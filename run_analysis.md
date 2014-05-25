@@ -313,6 +313,6 @@ Create a new variable, <code>feature</code> that is equivalent to <code>featureN
 </code></pre>
 
 <div class="highlight highlight-r"><pre><span class="c">markdownToHTML("codebook.md", "codebook.html")</span>
-</pre></div></article> </div>
+</pre></div></article> </div> 
 
  
